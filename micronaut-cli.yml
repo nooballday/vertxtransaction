@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: transactionvertx
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, gradle, groovy, groovy-application, http-client-test, logback, micronaut-aot, micronaut-build, netty-server, reactor, readme, serialization-jackson, shade, spock, yaml, yaml-build]

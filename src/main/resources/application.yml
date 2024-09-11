@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: transactionvertx
+
+vertx:
+  mysql:
+    client:
+      port: 3306
+      host: localhost
+      database: experiment
+      user: test
+      password: test
+      maxSize: 5
